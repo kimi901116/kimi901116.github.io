@@ -10,4 +10,4 @@ int main()
   scanf("%d",&n);
   printf("n");
 }
-```c
+```
